@@ -385,22 +385,22 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS;LIGA PERANCIS;LIGA BELANDA", SuperSport 4
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss4.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Golazo
 http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss3.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss5.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss5.m3u8
 
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -3684,6 +3684,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", TIMNAS U23 B
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/indoss.m3u8
+
 
 
 
