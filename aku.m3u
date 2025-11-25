@@ -3,6 +3,21 @@
 #EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Arena Premium 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arp2.m3u8
 
+#EXTINF:-1 group-title="1. INDONESIA " tvg-id="" tvg-logo="",TVONE INT
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch109.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA " tvg-id="" tvg-logo="",METRO TV INT
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch101.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA " tvg-id="" tvg-logo="",KOMPAS TV INT
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch102.m3u8
+
+
+
+
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Indosiar D
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3685,6 +3700,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", TIMNAS U23 B
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/indoss.m3u8
+
 
 
 
