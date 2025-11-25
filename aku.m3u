@@ -3,6 +3,11 @@
 #EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Arena Premium 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arp2.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="1. INDONESIA",TVONE Vi
+https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
+
+
 #EXTINF:-1 group-title="1. INDONESIA " tvg-id="" tvg-logo="",TVONE INT
 #EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch109.m3u8
@@ -3700,6 +3705,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", TIMNAS U23 B
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/indoss.m3u8
+
 
 
 
