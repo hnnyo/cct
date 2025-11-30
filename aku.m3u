@@ -1263,13 +1263,15 @@ img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl4.m3u8
+
+
+---
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-
-
 
 ---
 #EXTVLCOPT:http-origin=https://kleanstorage.store
@@ -3759,6 +3761,7 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport6_nz.m3
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport7_nz.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="LIGA INGGRIS", SKY SPORT 8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport8_nz.m3u8
+
 
 
 
