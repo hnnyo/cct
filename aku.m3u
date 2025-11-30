@@ -2729,16 +2729,23 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxde.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 1
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 2
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 3
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 4
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 5
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 6
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ElevenPT6.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS;BUNDESLIGA", SKY LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -3770,6 +3777,7 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport6_nz.m3
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport7_nz.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="LIGA INGGRIS", SKY SPORT 8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport8_nz.m3u8
+
 
 
 
