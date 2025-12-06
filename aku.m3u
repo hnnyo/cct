@@ -16,6 +16,13 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/mls3.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/mls4.m3u8
 
 
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="1. INDONESIA;BUNDESLIGA",iNews V+
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
 
 #EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Arena Premium 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arp2.m3u8
@@ -3824,6 +3831,7 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
 
 
 
