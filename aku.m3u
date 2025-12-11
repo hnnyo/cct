@@ -949,12 +949,9 @@ https://streaming.indihometv.com/atm/DASH/seatoday/seatoday-avc1_2500000=7-32980
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="TVRISport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TVRI_Sport_HD_%282019%29.svg",TVRI Sport
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
------
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
-----
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
------
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"}
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
 
 ------
 
@@ -3267,6 +3264,7 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
 
 
 
