@@ -18,6 +18,10 @@ https://newfamilytv.my.id/qtvvvvvv/index.m3u8?id=6ULEABgb_Ic&type=hls
 https://newfamilytv.my.id/qtvvvvvv/index.m3u8?id=Nbsr3aZIDl8&type=hls
 
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="httr5Mb.jpg", Tribun TV
+https://newfamilytv.my.id/qtvvvvvv/index.m3u8?id=RgGlkVj8ACo&type=hls
+
+
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="httr5Mb.jpg", Wildlife and Nature
 https://newfamilytv.my.id/qtvvvvvv/index.m3u8?id=daqB3i9WYIY&type=hls
@@ -3211,6 +3215,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Curiosity.id" tvg-name="Curiosity" tvg-logo="https://mimipipi22.github.io/logo/knowledge/curiosity.jpg" group-title="KNOWLEDGE",CURIOSITY
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
 
 
 
