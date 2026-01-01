@@ -2848,6 +2848,15 @@ http://live.catvod.com/live.php?id=go_sportsplus
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA SPORTS",ASTRO BADMINTON 1
+http://live.catvod.com/live.php?id=go_badminton1
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA SPORTS",ASTRO BADMINTON 1
+http://live.catvod.com/live.php?id=go_badminton2
+https://mimipipi22.github.io/logo/offline.m3u8
 
 
 
