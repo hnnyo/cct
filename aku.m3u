@@ -2979,7 +2979,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=179388&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17398&type=dash
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17938&type=dash
 
 ----
 https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=drm
@@ -3134,6 +3134,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19541&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
+
 
 
 
