@@ -2725,7 +2725,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm6GtfYRd8hsU3LUMk2DELWrMfrydzryxNhaAGc30Dg&s=10" group-title="SPORTS",ESPN vivo 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm6GtfYRd8hsU3LUMk2DELWrMfrydzryxNhaAGc30Dg&s=10" group-title="SPORTS;LIGA BELANDA",ESPN vivo 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
@@ -2969,7 +2969,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18189&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18190&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=18190&type=dash
  
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1 (SERIE A)
+#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA;LIGA BELANDA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3020,7 +3020,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3 (SERIE A)
+#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3134,6 +3134,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19541&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
+
 
 
 
