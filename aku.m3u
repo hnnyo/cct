@@ -26,8 +26,8 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18240&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18240&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18249&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18249&type=dash
 
 
 --
@@ -38,7 +38,16 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 ---
 
 #EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="httr5Mb.jpg", Bulu Tangkis 2
-https://5b45098b7b841fa1192076b23cc3d29b.v.smtcdns.net/play.cbalive.weibisai.com/live/4108657160524061_AiHD.m3u8?txSecret=b097b968085fd40827f17da6cb1052cc&txTime=69699BA0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18250&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18250&type=dash
+
 
 #EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="httr5Mb.jpg", Bulu Tangkis 3
 https://5b45098b7b841fa1192076b23cc3d29b.v.smtcdns.net/play.cbalive.weibisai.com/live/4108657360486061_AiHD.m3u8?txSecret=8e4a51d71ded09119abb1fc7ac4e5c67&txTime=69699BA0
@@ -3087,6 +3096,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19541&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
+
 
 
 
