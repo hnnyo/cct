@@ -318,19 +318,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS;LIGA PERANCIS;LIGA BELANDA", SuperSport 4
+EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS;LIGA PERANCIS;LIGA BELANDA", SuperSport 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
+EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
+EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
+EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
+EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss5.m3u8
 
 
@@ -1122,10 +1122,10 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 
-#EXTINF:-1 group-title="SPORTS;LIGA ITALIA" tvg-id="" tvg-logo="https://adsports.ae/images/no_img.png",Abu Dhabi Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://adsports.ae/images/no_img.png",Abu Dhabi Sports 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS;LIGA ITALIA" tvg-id="" tvg-logo="https://adsports.ae/images/no_img.png",Abu Dhabi Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://adsports.ae/images/no_img.png",Abu Dhabi Sports 2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 1 
@@ -2332,19 +2332,6 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
 
 
-#EXTINF:-1 group-title="BOLA;LIGA BELANDA" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-
-#EXTINF:-1 group-title="BOLA;LIGA BELANDA" tvg-id="dubaisports2.ae" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Dubai-Sport-2.jpg",Dubai Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="BOLA;LIGA BELANDA" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 3
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="SPORTS" ,  NBC SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2748,57 +2735,6 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="MALAYSIA SPORTS",ASTRO ARENA
-http://live.catvod.com/live.php?id=Arena
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="MALAYSIA SPORTS",ASTRO ARENA 2
-http://live.catvod.com/live.php?id=Arena2
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="MALAYSIA SPORTS",BOLA ARENA 1
-http://live.catvod.com/live.php?id=Bolaarena1
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="MALAYSIA SPORTS",BOLA ARENA 2
-http://live.catvod.com/live.php?id=Bolaarena2
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAYSIA SPORTS;LIGA INGGRIS",ASTRO PREMIER LEAGUE
-http://live.catvod.com/live.php?id=Assp1
-http://live.catvod.com/live.php?id=go_assp1
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="MALAYSIA SPORTS;LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
-http://live.catvod.com/live.php?id=Assp2
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="MALAYSIA SPORTS;LIGA INGGRIS",ASTRO GRANDSTAND
-http://live.catvod.com/live.php?id=go_assp3
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="MALAYSIA SPORTS;LIGA ITALIA",ASTRO FOOTBALL
-http://live.catvod.com/live.php?id=go_assp4
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA SPORTS",ASTRO SPORTSPLUS
-http://live.catvod.com/live.php?id=go_sportsplus
-
-
-
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA SPORTS",ASTRO BADMINTON 1
 http://live.catvod.com/live.php?id=go_badminton1
@@ -2940,6 +2876,9 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=dash
+
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
  
@@ -3139,6 +3078,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19541&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
+
 
 
 
