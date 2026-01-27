@@ -202,13 +202,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 
 -----
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORTS;1. INDONESIA;BUNDESLIGA",SPORTSTARS 3
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", TIMNAS U17 Wanita
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -3126,6 +3126,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
