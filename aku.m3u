@@ -3116,6 +3116,18 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19541&type=dash
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 
 
+#EXTINF:-1 group-title="VDIO SPORTS;MMA/UFC" tvg-logo="httr5Mb.jpg", CTV FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
+
 
 
 
