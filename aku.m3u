@@ -376,19 +376,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 
 
 
-EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS;LIGA PERANCIS;LIGA BELANDA", SuperSport 4
+#EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS;LIGA PERANCIS;LIGA BELANDA", SuperSport 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss4.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss1.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss2.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss3.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/ss5.m3u8
 
 
@@ -3142,6 +3142,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
