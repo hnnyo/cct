@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://o.nz/mac/479214/DAM/01C33B16-1A04-4C3E-8166BE38A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",TRNS 7
+http://103.146.197.250:25461/live/daeng/tmgrh/17.m3u8
+
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/DAM/01C33B16-1A04-4C3E-8166BE38A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="SPORTS;LIGA INGGRIS",Now Sports PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://eventcdn01-nowe.akamaized.net/hls/CH621/index.m3u8
@@ -3164,6 +3167,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
