@@ -599,10 +599,10 @@ https://flv.intechmedia.net/live/ch9.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd?9
+#KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
+https://cdn08jtedge.indihometv.com/dassdvr/133/maxstream/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/2560px-AllPlay_Entertainment.png" group-title="1. INDONESIA", ALLPLAY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/2560px-AllPlay_Entertainment.png" group-title="1. INDONESIA", Max Reels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
 #https://cdn13jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
@@ -3175,6 +3175,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
