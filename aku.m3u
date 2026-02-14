@@ -17,7 +17,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ChampionV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/7WgCma7sS07BT68U7-Q-0iVFWu8=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35925/indonesia-vs-china-b053f2.jpg" group-title="Vdio;TIMNAS",Indonesia VS China (U17)
+EXTINF:-1 tvg-id="ChampionV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/7WgCma7sS07BT68U7-Q-0iVFWu8=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35925/indonesia-vs-china-b053f2.jpg" group-title="Vdio;TIMNAS",Indonesia VS China (U17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3026,8 +3026,32 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="1. INDONESIA",Celestial Movies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/   
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="1. INDONESIA",Celestial Classic Movies
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="1. INDONESIA", Zee Bioskop
+https://fta4-cdn-flr.visionplus.id/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 
 
