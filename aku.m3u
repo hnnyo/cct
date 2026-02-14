@@ -807,7 +807,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
 
-#EXTINF:-1 group-title="Daerah" tvg-id="dutatv.id" tvg-logo="https://iptv.urfan.web.id/logo/dutatv.png",Duta TV
+#EXTINF:-1 group-title="Daerah;1. INDONESIA" tvg-id="dutatv.id" tvg-logo="https://iptv.urfan.web.id/logo/dutatv.png",Duta TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
@@ -3056,6 +3056,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
