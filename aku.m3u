@@ -2538,6 +2538,8 @@ https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="LIGA INGGRIS",Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 
+
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="" group-title="KNOWLEDGE",Curiosity Now
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3054,6 +3056,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+
 
 
 
