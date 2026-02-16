@@ -1267,10 +1267,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=d0c607f0958a4d85bb7b2be81e9ef278:cb3e057a2fce88366d0ef4d6dcdd7a5f
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
 
 #EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS;LIGA ITALIA;LIGA CHAMPIONS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7q1c7jYr_59IrpodB5D8N3rsXlRaPFsS0RUoN6SJHbFL3WRoOWWl_tWky5OkiMzDsooCJdddt5F5fCvvzJkSN7rgO6Wkxqur2QQSO7kquYBEuEF6zL5O-ry61PPpJige_otj9jH1_5qX0T_ZbvG1DPl_xWXic3fBi2JlieIVyLoOYki5Q0EZV8yXjCwQ/s700/TNT%20SPORTS%201.png",TNT SPORTS 1
@@ -3057,6 +3057,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="1. INDONESIA", Zee Bioskop
 https://fta4-cdn-flr.visionplus.id/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
 
 
 
