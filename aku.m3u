@@ -657,9 +657,8 @@ rtmp:///live/test123
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=dash
+http://stviptv.my.id/myvidio/vidiogratis.php/manifest.mpd?id=18280
+
 
 ---
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
@@ -3087,6 +3086,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png",TV9 NU
 https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+
 
 
 
