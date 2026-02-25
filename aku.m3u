@@ -772,25 +772,8 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="RELIGI", MAKKAH LIVE 🕋 ☪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
-https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="RELIGI", MADINAH LIVE ☪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
-https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
-
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="http/images.indihometv.com/logo_antvnew_small.png", JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFw6yo_V7Uwjqq8LhVNGspqcRC7nerlbj2smg1KGh9kcXtzzP6Whc5yyURrAxYXXMswfpDdwh_6_rH54MAZVoDXWoF1mOfc58VTpoAc8SmV0e254bmWQ3CRuA7vu2YvcT_HGbwV7mIJtV609Xp1lv-76MuCraGL7_BNkSuF1XDaOnV7e-YPutP9ldTXVdW/s700/ZIKIR.png" group-title="RELIGI" ,DZIKIR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g
 
 #EXTINF:-1 group-title="Mr. Bean"  tvg-logo="https://imametv.com/logo_antvnew_small.png",Mr. Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -3065,6 +3048,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
 
 
 
