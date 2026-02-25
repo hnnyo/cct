@@ -2765,7 +2765,15 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
  
  
  
-
+#EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="htrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlOxGf9gSU7NBEB3us6JlGA&s", MOJI LIGA CHAMPIONS 
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=18436&type=drm
+https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=18436&type=dash
+ 
  
 #EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQE_VoFA1JXKBlOxGf9gSU7NBEB3us6JlGA&s", BEIN 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2826,7 +2834,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
 https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=dash
  
 
-#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA;LIGA BELANDA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1
+#EXTINF:-1 group-title="VDIO SPORTS;LIGA ITALIA;LIGA BELANDA;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3048,6 +3056,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
 
 
 
