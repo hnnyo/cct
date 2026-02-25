@@ -2095,7 +2095,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/kix-avc1_1200000=4-3309216910000
 https://cdn10jtedge.indihometv.com/atm/DASH/muitv/muitv-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Religi" , MQTV
-https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/MQTV_HD-avc1_1200000=4-3309216910000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/mqtv-avc1_1200000=4-3309216910000000.mpd
 
 #EXTINF:-1 tvg-id="26890" tvg-name="Ar" tvg-logo="https:///kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Religi" , MTA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/mtatv-avc1_1200000=4-3309216910000000.mpd
@@ -3087,6 +3087,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png",TV9 NU
 https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+
 
 
 
