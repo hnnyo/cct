@@ -1,6 +1,13 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxqP6gWzF7Ss6zz_MlnQt1OxRUMZBjE09YZJ4ToO2X4MI6aMnn_WeGORLC07r7sXov0u3JTUYhw9PnjrP7HLh-IRJMGnH_PAJ4-RIiBtF-cCLGXjyjV8LC2-7zaRUsicaS2brWd5kf0kACYUM1tOB4GxMsdx_7xuWN26-WunT8NEJU9j5VuFC4Qk5RDA2/s700/CURIOSITY%20CHANNEL.png" group-title="KNOWLEDGE",CURIOSITY CHANNEL
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcb7e2aeecf04c2ea7f84f6d5418c9c6:1f83ca6b943604a45ae429895e6f7fc6
+https://cdn08jtedge.indihometv.com/dassdvr/133/curiosity/manifest.mpd
+
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://raw.t.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Makkah Live
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772142583/ei/l2ugacCxE4eK9fwP8pCRoA4/ip/103.30.147.120/id/HnfezwuF0MI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qs7nzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-wfW-zZ91AucS000c-jxbyTrVohvicX-Ac79MQbtV6Wku0OlqPUgybxuJwald1GqdWsFwwFY41W/spc/6dlaFLxHlga2lsxhU6qQp_zyy9cgTXbuuVp_k7znKiXEH00AHX0Kow/vprv/1/reg/0/playlist_type/DVR/met/1772120983,/mh/DN/mip/20.161.60.104/mm/44/mn/sn-p5qs7nzy/ms/lva/mv/u/mvi/2/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968,51791334/mt/1772119812/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRQIgVyXLZypDSvTF6nIV8l11t46QSkhzRd9S5kGHYNX5GS0CIQCFDK1b78oUTqDzeQHDnrFShVPXES9bIRlF3LIAH2g6PQ%3D%3D/lsparams/hls_chunk_host,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgbPsxLz0e72I2hoAhJmCBWDhbAgRuPyCUEpmxvMr-RmcCIATK2sNt1RBMfJlJunm5YtQl9kYBb8kwpLxBHujSBz9G/playlist/index.m3u8
@@ -3060,6 +3067,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
 
 
 
