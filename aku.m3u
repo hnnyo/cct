@@ -73,11 +73,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d75
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
 
-#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://shorter.me/_bDcr", BRI LIGA 1
+#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://shorter.me/_bDcr", BRI SUPERL LEAGUE 1 a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg1.m3u8
 
+#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://shorter.me/_bDcr", BRI SUPER LEAGUE 1 b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg1b.m3u8
+
+#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://sme/_bDcr", PEGADAIAN LOGA 2 1 a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg2a.m3u8
 
 
 #EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://yt3.googleusercontent.com/RmYZpZlI_ZKPoVrPsnSjTpAPCN0Jb7aV5AmoL8rPWJxpGUz-mvGlj-CCf0uCaMRHfMuBWjImRw=s900-c-k-c0x00ffffff-no-rj", Max kids
@@ -3223,6 +3232,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-logo="https://i.ibb.co.com/tJ27PX5/nick.png" group-title="ANAK-ANAK", NICKELODEON Max
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
 
 
 
