@@ -60,7 +60,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest.mpd
 
 
 #EXTINF:-1 group-title="1. INDONESIA;SPORTS;LIGA BELANDA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/useesport/useeaport-avc1_2500000=7-3284600346800000.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="RELIGI", MAKKAH LIVE 🕋 ☪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3154,6 +3155,7 @@ https://sky-nz.b-cdn.net/skysport9/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://sky-nz.b-cdn.net/skysportselect/master.mpd
+
 
 
 
