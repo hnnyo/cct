@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg1.m3u8
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg1b.m3u8
 
-#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://sme/_bDcr", PEGADAIAN LOGA 2 1 a
+#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://sme/_bDcr", PEGADAIAN LIGA 2 1 a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg2a.m3u8
@@ -163,9 +163,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/1f/99/431f99f4d6222344ada350ce76fdfe3d.jpg" group-title="LIGA INGGRIS",SS GRANDSTAND
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/ssgrand.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/1f/99/431f99f4d6222344ada350ce76fdfe3d.jpg" group-title="LIGA INGGRIS",SS EPL
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/ssepl.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="htt.jpg", USA NETWORK 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3150,6 +3147,7 @@ https://sky-nz.b-cdn.net/skysport9/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://sky-nz.b-cdn.net/skysportselect/master.mpd
+
 
 
 
