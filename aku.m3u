@@ -10,8 +10,6 @@
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="1. INDONESIA",TRANS TV V+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="1. INDONESIA",TRANS TV b
-http://103.66.62.83:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="Spotv Hd.ph" group-title="SPORTS;BOLA" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png",SPOTV NOW
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
@@ -3171,6 +3169,7 @@ https://sky-nz.b-cdn.net/skysport9/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://sky-nz.b-cdn.net/skysportselect/master.mpd
+
 
 
 
