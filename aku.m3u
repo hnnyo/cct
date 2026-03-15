@@ -3193,7 +3193,29 @@ https://ml-pull-hwc.myco.io/EPLBONGO8/hls/EPLBONGO8_H264-720p.m3u8?pkg_media=vid
 https://ml-pull-hwc.myco.io/EPLBONGO9/hls/EPLBONGO9_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc2
 
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",TRANS TV C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",METRO TV C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",TVONE C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVONE/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",TVN MOVIES C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",MDTV C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NET/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkeseh.id" tvg-logo="https://i.ibb.co.Bb7V/musiclab.png",CELESTIAL MOVIES C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
 
 
