@@ -3187,6 +3187,9 @@ https://ml-pull-hwc.myco.io/EPLBONGO7/hls/EPLBONGO7_H264-720p.m3u8?pkg_media=vid
 #EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL LIVE 1 c
 https://ml-pull-hwc.myco.io/EPLBONGO8/hls/EPLBONGO8_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc2
 
+#EXTINF:-1 group-title="VDIO SPORTS;LIGA INGGRIS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL LIVE 1 d
+https://ml-pull-hwc.myco.io/EPLBONGO9/hls/EPLBONGO9_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc2
+
 
 
 
