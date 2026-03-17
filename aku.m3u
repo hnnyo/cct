@@ -3091,7 +3091,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad97a7abab314cf8963e0c44d2c321eb:37717782418736b919d64cbb078a5bff
-https://cdn08jtedge.indihometv.com/dass/130/tvnmovies/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpd
 
 #EXTINF:-1 tvg-id="Net TV.id"  tvg-logo="https://i.ibb.co.com/mVR63q3t/mdtv.png group-title="1. INDONESIA", MDTV Max
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
