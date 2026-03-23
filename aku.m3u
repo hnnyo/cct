@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 group-title="1. INDONESIA;HBO DAN FILM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies Max
+EXTINF:-1 group-title="1. INDONESIA;HBO DAN FILM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies Max
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3284600346800000.mpd
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://raw.githubusercontent.cs/heads/main/logo/image_ch_hitsmovies.png",MONOMAX 1
@@ -82,7 +82,7 @@ https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest.mpd
 
 
-#EXTINF:-1 group-title="1. INDONESIA;SPORTS;LIGA BELANDA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+EXTINF:-1 group-title="1. INDONESIA;SPORTS;LIGA BELANDA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
 https://cdn10jtedge.indihometv.com/atm/DASH/useesport/useeaport-avc1_2500000=7-3284600346800000.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg1.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/lg2a.m3u8
 
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://yt3.googleusercontent.com/RmYZpZlI_ZKPoVrPsnSjTpAPCN0Jb7aV5AmoL8rPWJxpGUz-mvGlj-CCf0uCaMRHfMuBWjImRw=s900-c-k-c0x00ffffff-no-rj", Max kids
+EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://yt3.googleusercontent.com/RmYZpZlI_ZKPoVrPsnSjTpAPCN0Jb7aV5AmoL8rPWJxpGUz-mvGlj-CCf0uCaMRHfMuBWjImRw=s900-c-k-c0x00ffffff-no-rj", Max kids
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
@@ -605,7 +605,7 @@ EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA;HBO DAN FILM", Wa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
 
-#EXTINF:-1 tvg-logo="https://images." group-title="ANAK-ANAK", Fun Planet
+EXTINF:-1 tvg-logo="https://images." group-title="ANAK-ANAK", Fun Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3286265190000000.mpd
 
@@ -635,7 +635,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 ---
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropboxrp51aouwircr4f/image%281%29.jpeg", Antara TV
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropboxrp51aouwircr4f/image%281%29.jpeg", Antara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/antara-avc1_2500000=6-3278328720000000.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
@@ -647,7 +647,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA", Inews indi
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA", Inews indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=15-3280280430000000.mpd
 
@@ -830,7 +830,7 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="Mr. Bean"  tvg-logo="https://imametv.com/logo_antvnew_small.png",Mr. Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="1. INDONESIA",TVRI Nasional
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="1. INDONESIA",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
@@ -1877,7 +1877,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 <================ Korean Channels ===================>
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="1. INDONESIA;HBO DAN FILM", AXN Max
+EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="1. INDONESIA;HBO DAN FILM", AXN Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=6-3308869740000000.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
@@ -2034,7 +2034,7 @@ EXTINF:-1 tvg-logo="https:ogleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2IB_v0VwYA3
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropbox.com/p51aouwircr4f/im%281%29.jpeg", Prambors TV
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropbox.com/p51aouwircr4f/im%281%29.jpeg", Prambors TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=6-3278332010000000.mpd
 
@@ -2796,7 +2796,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 
 
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
+EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",Max Streak
