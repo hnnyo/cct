@@ -601,11 +601,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3286265190000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-ttv.png" group-title="1. INDONESIA",Trans TV indi
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/transtv-avc1_2500000=7-3284600346800000.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
-#https://cdn12jtedge.indihometv.com/atm/DASH/transtv/transtv-avc1_2500000=7-3284600346800000.mpd
 
 
 #EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="ANAK-ANAK", My Kidz
@@ -1193,35 +1188,6 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport4.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 5 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 6 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 7 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 8 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 9 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="" group-title="SPORTS" ,BEIN SPORTS MAX 10 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 
 
@@ -1242,13 +1208,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
-
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s",HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0c607f0958a4d85bb7b2be81e9ef278:cb3e057a2fce88366d0ef4d6dcdd7a5f
-https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
-
 
 EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS;LIGA ITALIA;LIGA CHAMPIONS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7q1c7jYr_59IrpodB5D8N3rsXlRaPFsS0RUoN6SJHbFL3WRoOWWl_tWky5OkiMzDsooCJdddt5F5fCvvzJkSN7rgO6Wkxqur2QQSO7kquYBEuEF6zL5O-ry61PPpJige_otj9jH1_5qX0T_ZbvG1DPl_xWXic3fBi2JlieIVyLoOYki5Q0EZV8yXjCwQ/s700/TNT%20SPORTS%201.png",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
