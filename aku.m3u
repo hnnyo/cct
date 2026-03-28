@@ -1124,6 +1124,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg",SCTV HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
+#https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=6-3278548290000000.mpd
+
+
+---
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
@@ -1131,10 +1138,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 
 
 ---
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
-#https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=6-3278548290000000.mpd
 
 ----
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
