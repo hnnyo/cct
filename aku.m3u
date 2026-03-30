@@ -443,12 +443,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 
 
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA", FLIK
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA", FLIK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
+
+
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="1. INDONESIA", Indosiar Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
