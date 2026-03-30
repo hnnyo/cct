@@ -85,7 +85,13 @@ https://anantv.my.id/comingsoons.mp4
 ---
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://raw.githubusercontent.cs/heads/main/logvies.png", TIMNAS FIFA SERIES (LIVE ONLY RELOAD ULANG) 2
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20992.drm?dev_kaki_09&t=1774883355&uip=2a06%3A98c0%3A3600%3A%3A103&h=f751c3b3e0a2d7bb31b5ef43a1674d7026f5467a3ea20dcd601414830348488d
+https://vid-zero-gelang.disini.workers.dev/20992.mpd?dev_kaki_09&t=1774883355&uip=2a06%3A98c0%3A3600%3A%3A103&h=f751c3b3e0a2d7bb31b5ef43a1674d7026f5467a3ea20dcd601414830348488d
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
