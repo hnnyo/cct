@@ -89,8 +89,8 @@ https://anantv.my.id/comingsoons.mp4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20992.drm?dev_kaki_09&t=1774883355&uip=2a06%3A98c0%3A3600%3A%3A103&h=f751c3b3e0a2d7bb31b5ef43a1674d7026f5467a3ea20dcd601414830348488d
-https://vid-zero-gelang.disini.workers.dev/20992.mpd?dev_kaki_09&t=1774883355&uip=2a06%3A98c0%3A3600%3A%3A103&h=f751c3b3e0a2d7bb31b5ef43a1674d7026f5467a3ea20dcd601414830348488d
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=UnoJzhnu2muBogmKoQcQpjuNKQXDWgO-OD71PqEPV2wr0761RrRlEJQRobnaHwYoDOVpiknRZMAcMFzGuHws-5fQR5MwU2BXvhvuNRctRuA
+https://d7pd9oqdl4d44.cloudfront.net/2026_03_26_15_54_26_1045349a-2c5a-4c82-a015-cf64dbc78f2d/PROD_CMAF_CENC/index-dash.mpd
 
 
 
