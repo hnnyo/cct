@@ -1,5 +1,25 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="SPORTS;BOLA",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="SPORTS;BOLA",ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="SPORTS;BOLA",ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="espnplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="SPORTS;BOLA",ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="1. INDONESIA",ANTV Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
