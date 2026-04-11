@@ -284,13 +284,11 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
 
-EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
-https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZOIE1vdmllcw/manifest.mpd
-
+#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;HBO DAN FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSS1SyB9RTnw51gcQQHQMxJc1DU3t_2XP1p5ngw10MessTCZkvUneqBR8&s=10",IMC Max
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -441,7 +439,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ccb.manggatv09.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 https://cdnjkt913.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 #https://viiip.kitashinsaku.com:443/10rb.vip///kontol0/a4/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
@@ -463,7 +461,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFJBTlM3LW15/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="1. INDONESIA", TRANS TV CBM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ccb.manggatv09.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 
