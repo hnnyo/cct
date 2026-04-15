@@ -1,6 +1,9 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 
+#EXTINF:-1 group-logo="https://static-we_next/static/logo/vidio.png" tvg-logo="https://thumbor.pXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" group-title="TIMNAS", New Caledoniavs Indonesia FIFA Series (LIVE ONLY)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://aspaltvpasti.top/11111/21172.m3u8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.coogo/vidio.png" tvg-logo="https://thumbor.prod.vi35yXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" group-title="TIMNAS;ASEAN U17 Boys Championship", Indonesia - ASEAN U17 Boys' Championship (LIVE ONLY)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
