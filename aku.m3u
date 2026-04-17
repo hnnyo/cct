@@ -27,9 +27,13 @@ https://aspaltvpasti.top/11111/21165.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/21157.drm
 https://aspaltvpasti.top/11111/21157.mpd
 
---
+#EXTINF:-1 group-logo="https://static-we_next/static/logo/vidio.png" tvg-logo="https://thumbor.pXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" group-title="ASEAN U17 Boys Championship", ASEAN U17 Boys' Championship 2 (LIVE ONLY)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 https://aspaltvpasti.top/11111/21157.m3u8
+
+#EXTINF:-1 group-logo="https://static-we_next/static/logo/vidio.png" tvg-logo="https://thumbor.pXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" group-title="ASEAN U17 Boys Championship", ASEAN U17 Boys' Championship 3 (LIVE ONLY)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://aspaltvpasti.top/11111/21177.m3u8
 
 ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
