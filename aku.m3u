@@ -2651,23 +2651,26 @@ https://aspaltvpasti.top/11111/17884.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=8121&type=drm
+https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6299&type=dash
+#https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=dash
 
 
 #EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobdTTTy3YyU0Qxd3qnDYCNyRDVjFPSGjReg&s", Bein 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17875&type=drm
+https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17875&type=dash
+#https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=dash
 
 #EXTINF:-1 group-title="VDIO SPORTS;LIGA CHAMPIONS"  tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png", Bein 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6317&type=drm
+https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6317&type=dash
+#https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
 
  
 #EXTINF:-1 group-title="VDIO SPORTS;MotoGP"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5-lNyEEkkfsNYzGuO8j5FhE8Cp0YYj92ftATGPPpGkPaS8yE_UPKmLA&s=10", Spotv V
