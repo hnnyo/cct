@@ -2860,8 +2860,9 @@ https://aspaltvpasti.top/11111/19542.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20216.drm
-https://aspaltvpasti.top/11111/20216.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=20216&type=drm
+https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=20216&type=dash
+#https://aspaltvpasti.top/11111/20216.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
