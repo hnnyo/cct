@@ -2863,6 +2863,12 @@ https://aspaltvpasti.top/11111/19542.mpd
 https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=20216&type=dash
 #https://aspaltvpasti.top/11111/20216.mpd
 
+#EXTINF:-1 tvg-id="484" tvg-name="adptv-484" group-title="LIGA INGGRIS" tvg-logo="httpchampions-tv-.png",EPL LIVE (LIVE ONLY)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa07.adptv.workers.dev/18796.drm
+https://nissa07.adptv.workers.dev/18796.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
