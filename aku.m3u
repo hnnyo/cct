@@ -487,7 +487,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", KOMPAS TV D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/kompas.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="1. INDONESIA", TRANS 7 CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -791,9 +792,10 @@ EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropboxrp51aouwircr4f/
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/antara-avc1_2500000=6-3278328720000000.mpd
 #https://cdngb196.indihometv.com/atm/DASH/antara/antara-avc1_2500000=6-3278328720000000.mpd
 
-EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA;ANAK-ANAK", RTV
+3EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/da/download-logo-rcti-4.png" group-title="1. INDONESIA;ANAK-ANAK", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-3278548290000000.mpd
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/rtv.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=6-3278548290000000.mpd
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 
@@ -882,7 +884,8 @@ rtmp:///live/test123
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18280
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/bsatu.m3u8
+#https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18280
 
 
 ---
@@ -1058,7 +1061,8 @@ https://why.biz.id/Iptv/o2kimia.php?id=nettv-hd
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tvone.m3u8
+3http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 ---
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -1235,10 +1239,11 @@ metro
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0
 
 
-EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg",SCTV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=6-3278548290000000.mpd
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/sctv.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=6-3278548290000000.mpd
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
 
@@ -1274,7 +1279,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="1. INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
-https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/btv.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
 #https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 
