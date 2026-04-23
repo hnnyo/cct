@@ -1,21 +1,22 @@
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",TRANS TV X
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",TRANS 7
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.iblab.png",TRANS 7
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",TV ONE X
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.iclab.png",TRANS TV X
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.iab.png",TV ONE X
 http://103.58.160.157:8278/720-TVONE/playlist.m3u8
 
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",METRO TV X
+#EXTINF:-1 group-title="21. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.clab.png",METRO TV X
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 
-#EXTINF:-1 group-title="TESTTT" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",ANTV 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/ab.png",ANTV X
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",KOMPAS TV X
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/png",KOMPAS TV X
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 
-#EXTINF:-1 group-title="2. NASIONAL TV" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/musiclab.png",TRANS TV
+#EXTINF:-1 group-title="21. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.ilab.png",RCTI X
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
