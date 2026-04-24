@@ -19,6 +19,14 @@ http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.ilab.png",RCTI X
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
+#EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.ibb.c/ab.png",ANTV CBM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
+https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/QU5UVg/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/06O-m.png" group-title="1. INDONESIA", METRO TV D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
