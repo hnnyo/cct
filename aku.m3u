@@ -50,11 +50,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 #EXTINF:-1 tvg-id="Lokal" group-title="1. INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholD70mtLDL6wLTw9aksefL7JkdZPKp5BhyphenhyphenTlRrVszIpP45l27atFLYIeRxh6mS_EnqFphEPDf95VA1JZ3o7GQP5KFt6t_5y99rmf0C_M9SlBB0wvLWtcDH6rM5RHBmvzw0NQIY9LVIIZqcmQ3-yEqmypNOZQ94GkVXelXHi7UHi9bTbrGR9zLJYrcn0o/s720/teveMobile.png" ch-number="5",SindoNews V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ayo.maling.pl/Vision/index.mpd?id=5
-#https://tvku.family/Vis1/index.mpd?id=5
+https://tvku.family/Vis1/index.mpd?id=5
+#https://ayo.maling.pl/Vision/index.mpd?id=5
+
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="1. INDONESIA",TVONE V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
