@@ -2638,7 +2638,7 @@ https://pidio.becek.workers.dev/18436.mpd
 #https://aspaltvpasti.top/11111/18436.mpd
 
 
-#EXTINF:-1 tvg-id="Champi TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/lDG2eMRN3lL5ru9uzobxTm8CAVk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17884/formula-1-cover-8872fd.jpg" group-title="VDIO SPORTS;LIGA CHAMPIONS",BEIN 1 b
+EXTINF:-1 tvg-id="Champi TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/lDG2eMRN3lL5ru9uzobxTm8CAVk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17884/formula-1-cover-8872fd.jpg" group-title="VDIO SPORTS;LIGA CHAMPIONS",BEIN 1 b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -2657,8 +2657,9 @@ https://pidio.becek.workers.dev/17884.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6299.drm
-https://pidio.becek.workers.dev/6299.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
+#https://pidio.becek.workers.dev/6299.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6299&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=dash
 
@@ -2667,8 +2668,9 @@ https://pidio.becek.workers.dev/6299.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17875.drm
-https://pidio.becek.workers.dev/17875.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=dash
+#https://pidio.becek.workers.dev/17875.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17875&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=dash
 
@@ -2676,8 +2678,9 @@ https://pidio.becek.workers.dev/17875.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6317.drm
-https://pidio.becek.workers.dev/6317.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=dash
+#https://pidio.becek.workers.dev/6317.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6317&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
 
@@ -2691,8 +2694,9 @@ https://pidio.becek.workers.dev/6317.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17139.drm
-https://pidio.becek.workers.dev/17139.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=dash
+#https://pidio.becek.workers.dev/17139.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17139&type=dash
 #https://aspaltvpasti.top/11111/17139.mpd
 
@@ -2706,8 +2710,9 @@ https://pidio.becek.workers.dev/17139.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17140.drm
-https://pidio.becek.workers.dev/17140.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
+#https://pidio.becek.workers.dev/17140.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17140&type=dash
 #https://aspaltvpasti.top/11111/17140.mpd
 
@@ -2721,8 +2726,9 @@ https://pidio.becek.workers.dev/17140.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17938.drm
-https://pidio.becek.workers.dev/17938.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+#https://pidio.becek.workers.dev/17938.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
 #https://aspaltvpasti.top/11111/17938.mpd
 
@@ -2734,8 +2740,9 @@ https://pidio.becek.workers.dev/17938.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6686.drm
-https://pidio.becek.workers.dev/6686.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+#https://pidio.becek.workers.dev/6686.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
 #https://aspaltvpasti.top/11111/6686.mpd
 
@@ -2747,8 +2754,9 @@ https://pidio.becek.workers.dev/6686.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/19404.drm
-https://pidio.becek.workers.dev/19404.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+#https://pidio.becek.workers.dev/19404.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
 #https://aspaltvpasti.top/11111/19404.mpd
 
@@ -2760,8 +2768,9 @@ https://pidio.becek.workers.dev/19404.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9182.drm
-https://pidio.becek.workers.dev/9182.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
 #https://aspaltvpasti.top/11111/9182.mpd
 
@@ -2773,8 +2782,9 @@ https://pidio.becek.workers.dev/9182.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9183.drm
-https://pidio.becek.workers.dev/9183.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
 #https://aspaltvpasti.top/11111/9183.mpd
 
@@ -2889,12 +2899,13 @@ https://maling.pl/19542.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/20216.drm
-https://pidio.becek.workers.dev/20216.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=dash
+#https://pidio.becek.workers.dev/20216.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=20216&type=dash
 #https://aspaltvpasti.top/11111/20216.mpd
 
-#EXTINF:-1 tvg-id="484" tvg-name="adptv-484" group-title="LIGA INGGRIS" tvg-logo="httpchampions-tv-.png",EPL LIVE (LIVE ONLY)
+EXTINF:-1 tvg-id="484" tvg-name="adptv-484" group-title="LIGA INGGRIS" tvg-logo="httpchampions-tv-.png",EPL LIVE (LIVE ONLY)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
