@@ -282,10 +282,6 @@ http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvkesehatan.id" tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png",IMTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-logo="https://i.ibb.co.com/JwZ1RxfF/mono29.png" tvg-id="MONO29.th" , MONO 29 🇹🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxqP6gWzF7Ss6zz_MlnQt1OxRUMZBjE09YZJ4ToO2X4MI6aMnn_WeGORLC07r7sXov0u3JTUYhw9PnjrP7HLh-IRJMGnH_PAJ4-RIiBtF-cCLGXjyjV8LC2-7zaRUsicaS2brWd5kf0kACYUM1tOB4GxMsdx_7xuWN26-WunT8NEJU9j5VuFC4Qk5RDA2/s700/CURIOSITY%20CHANNEL.png" group-title="KNOWLEDGE",CURIOSITY CHANNEL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -362,14 +358,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-327770703
 
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/8A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",GTV Max
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://o.nz/mac/479214/DAM/01C33B16-1A04-4C3E-8166BE38A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="SPORTS;LIGA INGGRIS",Now Sports PL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://o.nz/mac/479214/DAM/01C33B16-1A04-4C3E-8166BE38A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="SPORTS;LIGA INGGRIS",Now Sports PL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 
 
 EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
@@ -3072,55 +3060,6 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp5.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gdDkGg3/skyspnz1.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 1 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-https://sky-nz.b-cdn.net/skysport1/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/48x0Xzw/skyspnz2.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 2 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://sky-nz.b-cdn.net/skysport2/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZV7pJM/skyspnz3.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 3 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-https://sky-nz.b-cdn.net/skysport3/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tb3XD7x/skyspnz4.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 4 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-https://sky-nz.b-cdn.net/skysport4/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQYw1Xv/skyspnz5.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 5 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
-https://sky-nz.b-cdn.net/skysport5/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0jy88Pj/skyspnz6.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 6 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
-https://sky-nz.b-cdn.net/skysport6/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mhzG68b/skyspnz7.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 7 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
-https://sky-nz.b-cdn.net/skysport7/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/47Thzv8/skyspnz8.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 8 PL 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
-https://sky-nz.b-cdn.net/skysport8/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DkKwbSq/skyspnz9.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport 9 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
-https://sky-nz.b-cdn.net/skysport9/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GnsLq4W/skyspnzslct.png" group-title="SPORTS;LIGA INGGRIS", Sky Sport Select 🇳🇿
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
-https://sky-nz.b-cdn.net/skysportselect/master.mpd
 
 
 
