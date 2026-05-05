@@ -25,6 +25,10 @@ EXTINF:-1 tvg-id="ID.364" tvg-logo="https://servicebuss.transvision.co.id/hospit
 #KODIPROP:inputstream.adaptive.license_key=4f6fb95f574e49c585ba7dc5dd79f05b:7ed3fa195f5e445aaf61ea419caffc98
 https://cdnjktbpid02.transvision.co.id/riutx01-ccde0d48df6b9717d661f7f4a43ad104b1b58e365a3f8f7fb9a7265f9570a540/dash/QU5UVg/manifest.mpd
 
+#EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
+#EXTVLCOPT:http-referrer=https://rctiplus.id/
+https://midcache-nt.rctiplus.id/hdlive2/afc17_720p/index.m3u8
+
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="tvke.id" tvg-logo="https://i.iclab.png",TRANS TV X
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
