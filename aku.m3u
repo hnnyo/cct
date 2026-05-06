@@ -10,6 +10,26 @@ https://firstmedia.ambatukan.workers.dev/406/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/408/index.mpd
 https://firstmedia.ambatukan.workers.dev/408/index.mpd
 
+#EXTINF:0 tvg-id="CelestialMoviesHD" tvg-name="CelestialMoviesHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/85.png" group-title="1. INDONESIA",Celestial Movies F
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/85/index.mpd
+https://firstmedia.ambatukan.workers.dev/85/index.mpd
+
+#EXTINF:0 tvg-id="SPOTV2HD" tvg-name="SPOTV2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/211.png" group-title="1. INDONESIA;MotoGP",SPOTV 2 F
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/211/index.mpd
+https://firstmedia.ambatukan.workers.dev/211/index.mpd
+
+#EXTINF:0 tvg-id="SPOTVHD" tvg-name="SPOTVHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/288.png" group-title="1. INDONESIA;SPORTS",SPOTV F
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/288/index.mpd
+https://firstmedia.ambatukan.workers.dev/288/index.mpd
+
+#EXTINF:0 tvg-id="tvNMoviesHD" tvg-name="tvNMoviesHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/287.png" group-title="1. INDONESIA",tvN Movies F
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/287/index.mpd
+https://firstmedia.ambatukan.workers.dev/287/index.mpd
+
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
 #EXTVLCOPT:http-referrer=https://rctiplus.id/
