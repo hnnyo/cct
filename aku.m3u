@@ -1,34 +1,6 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:0 tvg-id="Trans7HD" tvg-name="Trans7HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/406.png" group-title="1. INDONESIA",Trans 7 F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/406/index.mpd
-https://firstmedia.ambatukan.workers.dev/406/index.mpd
 
-#EXTINF:0 tvg-id="TransTVHD" tvg-name="TransTVHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/408.png" group-title="1. INDONESIA",Trans TV F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/408/index.mpd
-https://firstmedia.ambatukan.workers.dev/408/index.mpd
-
-#EXTINF:0 tvg-id="CelestialMoviesHD" tvg-name="CelestialMoviesHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/85.png" group-title="1. INDONESIA",Celestial Movies F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/85/index.mpd
-https://firstmedia.ambatukan.workers.dev/85/index.mpd
-
-#EXTINF:0 tvg-id="SPOTV2HD" tvg-name="SPOTV2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/211.png" group-title="1. INDONESIA;MotoGP",SPOTV 2 F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/211/index.mpd
-https://firstmedia.ambatukan.workers.dev/211/index.mpd
-
-#EXTINF:0 tvg-id="SPOTVHD" tvg-name="SPOTVHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/288.png" group-title="1. INDONESIA;SPORTS",SPOTV F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/288/index.mpd
-https://firstmedia.ambatukan.workers.dev/288/index.mpd
-
-#EXTINF:0 tvg-id="tvNMoviesHD" tvg-name="tvNMoviesHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/287.png" group-title="1. INDONESIA",tvN Movies F
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/287/index.mpd
-https://firstmedia.ambatukan.workers.dev/287/index.mpd
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
