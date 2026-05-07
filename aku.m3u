@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
+EXTINF:-1 group-title="TIMNAS" tvg-id="tvke.id" tvg-logo="https://i.png",AFC U17 2026
 #EXTVLCOPT:http-referrer=https://rctiplus.id/
 https://midcache-nt.rctiplus.id/hdlive2/afc17_720p/index.m3u8
 
