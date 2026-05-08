@@ -3109,6 +3109,9 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?hdnts=st%3D1769558010~exp%3D1769579610~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-MMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F72581a39-9590-4c64-998e-b61fcf2d0294%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1~hmac%3Da55604e17d60325b22810a63f432a77a831b82ba1299e99deb7fbbefea159866
 
+#EXTINF:-1 tvg-logo="https://img2.hulu.com/user/v3/artwork/36cbc733-044f-4e94-a511-f4abbbc8c803?base_image_bucket_name=image_manager&base_image=13261923-7033-417c-bf73-c64e492cd830&size=600x338&format=webp" group-title="MMA/UFC",MMA TV/PFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 
 
 
