@@ -2261,8 +2261,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 channel-id="bellator-mma" channel-number="2870" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Bellator MMA" tvc-guide-description="Bellator MMA is home to the most exciting MMA action featuring the top fighters from around the world. Relive all the best events, championship fights, knockouts and submissions from inside the Bellator MMA cage." group-title="MMA/UFC;SPORTS", Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
-#EXTINF:0 channel-id="glory-kickboxing" channel-number="2900" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="GLORY Kickboxing" tvc-guide-description="With the highest KO rate of any fight sport on television, GLORY Kickboxing is fast-paced, non-stop explosive action from start to finish. There are no takedowns and no wrestling: the fights are all stand-up, all-striking, all the time." group-title="MMA/UFC;SPORTS", GLORY Kickboxing
-https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="SPORTS",TSN 1
@@ -3120,6 +3118,11 @@ https://maling.pl/21179.mpd
 
 
 
+#EXTINF:-1 group-title="MMA/UFC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhi_1_yqlx6Fi9rEhSIR3i72U8hasLnNjzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png",UFC MMA 1
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MMA/UFC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhi_1_yqlx6Fi9rEhSIR3i72U8hasLnNjzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png",UFC MMA 2
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 
 
