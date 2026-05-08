@@ -841,28 +841,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfs0jCRr_gY8LZpS1txmy8PXnvM9D64OxiyZNjVaLHatBahCArLiUeDe3kDwnWGlkPrc3Re6uH-ebMjJwTrhn0aqT4kMXQ6sbld8yBwE1URPpvOawmAAR2-PQ8Odwf_KMGENxEsQjAmmZGp_6AGTh14B3Ep8IK7giF3LAmyZVrFUFcAi-wEbdCb2XgR8t/s700/ONE%20SPORTS+.png" group-title="SPORTS;MMA/UFC", ONE SPORTS +
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
------
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-
-------
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
-
-
-EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/foNEgtXsOngHfftEddIN26xklno=/1200x675/smart/filters:quality(75):strp_icc():format(jpeg)/kly-media-production/medias/3630075/original/041093300_1636628181-trans7-tv-stream-b793ab.jpeg" group-title="MotoGP", LIVE ONLY MOTOGP
-rtmp:///live/test123
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg",Berita Satu
@@ -3124,7 +3103,11 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MMA/UFC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhi_1_yqlx6Fi9rEhSIR3i72U8hasLnNjzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png",UFC MMA 2
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" group-title="MMA/UFC", MMA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?hdnts=st%3D1769558010~exp%3D1769579610~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-MMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F72581a39-9590-4c64-998e-b61fcf2d0294%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_272_-1~hmac%3Da55604e17d60325b22810a63f432a77a831b82ba1299e99deb7fbbefea159866
 
 
 
