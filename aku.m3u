@@ -11,6 +11,11 @@ EXTINF:0 tvg-id="Trans7HD" tvg-name="Trans7HD" tvg-logo="http://edge.linknetott.
 #KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/406/index.mpd
 https://firstmedia.ambatukan.workers.dev/406/index.mpd
 
+#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ID.210" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="1. INDONESIA", Trans TV CBM
@@ -357,13 +362,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-327770703
 
 #EXTINF:-1 tvg-logo="https://o.nz/mac/479214/8A26CEFB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="1. INDONESIA",GTV Max
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-
-
-EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA;FILM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSS1SyB9RTnw51gcQQHQMxJc1DU3t_2XP1p5ngw10MessTCZkvUneqBR8&s=10",IMC Max
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
