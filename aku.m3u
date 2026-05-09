@@ -1242,6 +1242,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="1. INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux; Android 13) ExoPlayerLib/2.18.1
+https://wakhaji.biz.id/hls/hls-oxygen.php?id=btv
+
+
+---
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/248/index.mpd
 https://firstmedia.ambatukan.workers.dev/248/index.mpd
@@ -1277,24 +1282,7 @@ https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/btv.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 
----
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
----
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
-https://popmi.my.id/tes.m3u8?id=18280
-
-
----
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-http://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
-----
 
 EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="1. INDONESIA;FILM" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1318,7 +1306,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 ----Sports-----
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png",PSJ TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sports",Manchester united TV
