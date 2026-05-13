@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="Tvnmovies.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="1. INDONESIA",tvN Movies CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/VFZOIE1vdmllcw/manifest.mpd
 
 ---
@@ -19,7 +19,7 @@ https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf5804
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/VHJhbnNUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 CBM
@@ -27,13 +27,13 @@ https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/VFJBTlM3LW15/manifest.mpd
 
 #EXTINF:-1 tvg-id="807.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" tvg-name="Indosiar" group-title="1. INDONESIA", Indosiar CBM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/SW5kb3NpYXI/manifest.mpd
 
 
@@ -42,7 +42,7 @@ https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/QU5UVg/manifest.mpd
 
 
