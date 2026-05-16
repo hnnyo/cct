@@ -93,9 +93,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
-https://tvku.family/Vis1/index.mpd?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc3ODkzMTQzNSwiaWF0IjoxNzc4OTMwODM1LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiYWI4NmRhYzAtMjJmOS00N2QyLWExNjItZTM3ZWJhMjQ5MjFmIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMDA1Iiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.LGUrSIjSplJ9H8D1Un9yibHD3EdZY2ggHZF18SIxjmm-h9wTmYlGonkgQX8En-_PMfU59oRWBIZN30w7Us6JHA
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
+
+----
+https://tvku.family/Vis1/index.mpd?id=5
+https://tvku.family/Vis1/index.drm?id=5
 
 ---
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
