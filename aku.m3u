@@ -2788,19 +2788,18 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
-https://maling.pl/205.mpd
-#https://aspaltvpasti.top/11111/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=darm
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
 
 #EXTINF:-1 group-title="VDIO SPORTS;BRI Super League"  tvg-logo="https://image.disc/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", BRI Super League 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19353.drm
-https://maling.pl/19353.mpd
-#https://aspaltvpasti.top/11111/19353.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19353&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19353&type=dash
 
 #EXTINF:-1 group-title="VDIO SPORTS;BRI Super League"  tvg-logo="https://image.disc/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", BRI Super League 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2808,8 +2807,8 @@ https://maling.pl/19353.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19385.drm
-https://maling.pl/19385.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19385&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
 
 #EXTINF:-1 group-title="VDIO SPORTS;BRI Super League"  tvg-logo="https://image.disc/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", BRI Super League 4
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2817,9 +2816,8 @@ https://maling.pl/19385.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
-https://maling.pl/19354.mpd
-#https://aspaltvpasti.top/11111/205.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19354&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19354&type=dash
 
 
 #EXTINF:-1 group-title="VDIO SPORTS;Pegadaian Championship"  tvg-logo="https://i.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Pegadaian Championship 1
@@ -2828,8 +2826,8 @@ https://maling.pl/19354.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19541.drm
-https://maling.pl/19541.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19541&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19541&type=dash
 
 #EXTINF:-1 group-title="VDIO SPORTS;Pegadaian Championship"  tvg-logo="https://idiscovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Pegadaian Championship 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2837,8 +2835,8 @@ https://maling.pl/19541.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19543.drm
-https://maling.pl/19543.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19543&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19543&type=dash
 
 
 #EXTINF:-1 group-title="VDIO SPORTS;Pegadaian Championship"  tvg-logo="https://imiscovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Pegadaian Championship 3
@@ -2847,8 +2845,8 @@ https://maling.pl/19543.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20833.drm
-https://maling.pl/20833.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=20833&type=drm
+https://tvratu.my.id/vid/index.mpd?id=20833&type=dash
 
 #EXTINF:-1 group-title="VDIO SPORTS;Pegadaian Championship"  tvg-logo="htt.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Pegadaian Championship 4
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -2856,8 +2854,8 @@ https://maling.pl/20833.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19883.drm
-https://maling.pl/19883.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19883&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19883&type=dash
 
 
 #EXTINF:-1 group-title="VDIO SPORTS;Pegadaian Championship"  tvg-logo="htt.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Pegadaian Championship 5
