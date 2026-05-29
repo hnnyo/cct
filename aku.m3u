@@ -2653,8 +2653,9 @@ https://pidio.becek.workers.dev/17884.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6299&type=drm
+https://tvratu.my.id/vid/index.mpd?id=6299&type=dash
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
 #https://pidio.becek.workers.dev/6299.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6299&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6299&type=dash
@@ -2664,8 +2665,9 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=17875&type=drm
+https://tvratu.my.id/vid/index.mpd?id=17875&type=dash
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=dash
 #https://pidio.becek.workers.dev/17875.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17875&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=17875&type=dash
@@ -2674,8 +2676,9 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6317&type=drm
+https://tvratu.my.id/vid/index.mpd?id=6317&type=dash
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=dash
 #https://pidio.becek.workers.dev/6317.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6317&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
