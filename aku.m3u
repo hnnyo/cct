@@ -3466,12 +3466,9 @@ EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd
-#https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
 EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/OkeyDolby.png", RTM Okey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
@@ -3499,34 +3496,16 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unontent/uploads/2018/07/digi-sport.jpg" group-title="PIALA DUNIA" , BBC ONE KILATLIVE
+#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unontent/u/07/digi-sport.jpg" group-title="PIALA DUNIA" , BBC ONE KILATLIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", SPORZA LIVE
+#EXTINF:-1 tvg-logo="https://i.im/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", SPORZA LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
-
-#EXTINF:-1  tvg-logo="httpsom/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", DR1 🇩🇰
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d96c1f3cb7216696995cf6cc5e718f20":"c97dec5567e74aebe3ef145284402e59","d96c1f3cb7216696995cf6cc5e718f10":"681026e1a36d9577639ff190bc7567f0"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_dr2hd_dk_live/sm_dr2hd_dk_live.isml/playlist.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.co6nw.png" group-title="PIALA DUNIA", TV2 SPORT X 🇩🇰
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6529e289d61a7d467c7a6a8d80189b20":"4f82fb1d198a249b50fe7cb093f3705b","6529e289d61a7d467c7a6a8d80189b10":"8df6584244a3a3303ac9b3fb689e2e19"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
-
-#EXTINF:-1 tvg-id="TV 2 Sport 1.no" tvg-logo="https://i.ibF/wc26nw.png" group-title="PIALA DUNIA", 2 DIREKTE 🇳🇴
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b56466b2ebc728cc1ddd7e4a84eeb220":"14d539488ce818a55862d61a68a7df03","b56466b2ebc728cc1ddd7e4a84eeb210":"c7cccb521aa5bcde0608d95183ecccd7"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sport1_live/sm_tv2sport1_live.isml/playlist.mpd
 
 
 
