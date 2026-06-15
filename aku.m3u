@@ -3474,12 +3474,18 @@ EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https:///b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaV5IeH4KV5vKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",VIX MUNDIAL 90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
+
 
 EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="PIALA DUNIA", Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
