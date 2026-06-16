@@ -3586,6 +3586,20 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", BEIN MAX 3
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", BEIN MAX 4
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax4.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
