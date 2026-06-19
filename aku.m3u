@@ -3242,7 +3242,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 ===================================
 
 
-#EXTINF:-1 tvg-id="0_dvz3e9kc" tvg-name="Amerika Serikat vs Australia" tvg-logo="httpilt.jpg" group-title="PIALA DUNIA",Amerika Serikat vs Australia (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_dvz3e9kc" tvg-name="Amerika Serikat vs Australia" tvg-logo="httpilt.jpg" group-title="PIALA DUNIA",Amerika Serikat vs Australia (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3250,7 +3250,7 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_dvz3e9kc
 
-#EXTINF:-1 tvg-id="0_5gwlkpqo" tvg-name="Skotlandia vs Maroko" tvg-logo="https:/esdefault.jpg" group-title="PIALA DUNIA",Skotlandia vs Maroko (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_5gwlkpqo" tvg-name="Skotlandia vs Maroko" tvg-logo="https:/esdefault.jpg" group-title="PIALA DUNIA",Skotlandia vs Maroko (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3258,7 +3258,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_5gwlkpqo
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="Brasil vs Haiti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Brasil vs Haiti (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="Brasil vs Haiti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Brasil vs Haiti (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3266,7 +3266,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_wwo03gjk
 
-#EXTINF:-1 tvg-id="0_h9iesdpz" tvg-name="Swiss vs Bosnia" tvg-logo="https://i.ytimg.com/vi/rphL-y.jpg" group-title="PIALA DUNIA",Swiss vs Bosnia (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_h9iesdpz" tvg-name="Swiss vs Bosnia" tvg-logo="https://i.ytimg.com/vi/rphL-y.jpg" group-title="PIALA DUNIA",Swiss vs Bosnia (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3274,7 +3274,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_h9iesdpz
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="Brasil vs Haiti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Turki vs Paraguay (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="Brasil vs Haiti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Turki vs Paraguay (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3283,7 +3283,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_rbd2mb9l
 
 
-#EXTINF:-1 tvg-id="0_5xlr2225" tvg-name="Belanda vs Swedia" tvg-logo="https://i.yult.jpg" group-title="PIALA DUNIA",Belanda vs Swedia (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_5xlr2225" tvg-name="Belanda vs Swedia" tvg-logo="https://i.yult.jpg" group-title="PIALA DUNIA",Belanda vs Swedia (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3291,7 +3291,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_5xlr2225
 
-#EXTINF:-1 tvg-id="0_12sct2i8" tvg-name="Jerman vs Pantai Gading" tvg-logo="https://i.fault.jpg" group-title="PIALA DUNIA",Jerman vs Pantai Gading (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_12sct2i8" tvg-name="Jerman vs Pantai Gading" tvg-logo="https://i.fault.jpg" group-title="PIALA DUNIA",Jerman vs Pantai Gading (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3299,7 +3299,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_12sct2i8
 
-#EXTINF:-1 tvg-id="0_f7pntwm6" tvg-name="Ekuador vs Curacao" tvg-logo="https://i.ytimg.comlt.jpg" group-title="PIALA DUNIA",Ekuador vs Curacao (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_f7pntwm6" tvg-name="Ekuador vs Curacao" tvg-logo="https://i.ytimg.comlt.jpg" group-title="PIALA DUNIA",Ekuador vs Curacao (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3307,7 +3307,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_f7pntwm6
 
-#EXTINF:-1 tvg-id="0_ayzd8dbv" tvg-name="Tunisia vs Jepang" tvg-logo="https://i.ytimg.com/vi/rt.jpg" group-title="PIALA DUNIA",Tunisia vs Jepang (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_ayzd8dbv" tvg-name="Tunisia vs Jepang" tvg-logo="https://i.ytimg.com/vi/rt.jpg" group-title="PIALA DUNIA",Tunisia vs Jepang (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3315,7 +3315,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_ayzd8dbv
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Spanyol vs Arab Saudi (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Spanyol vs Arab Saudi (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3324,7 +3324,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_y8c2n3tg
 
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Belgia vs Iran (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Belgia vs Iran (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3332,7 +3332,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_1h46q9lb
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="rd" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Uruguay vs Cape Verde (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="rd" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Uruguay vs Cape Verde (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3340,7 +3340,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_aq05fjl6
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="ti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Selandia Baru vs Mesir (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="ti" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Selandia Baru vs Mesir (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3348,7 +3348,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_ao7wzn1v
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="B" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Argentina vs Austria (TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="B" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Argentina vs Austria (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
