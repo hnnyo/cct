@@ -3241,6 +3241,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 ===================================
 ===================================
 
+#EXTINF:-1 data-source="Manual" group-title="PIALA DUNIA" tvg-logo="https://carboncredits.com/wp-con757112807302.jpg" tvg-uid="8c3db41f9f37286ead029baf0742c4fe",CANAL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
+
 
 #EXTINF:-1 tvg-id="0_5gwlkpqo" tvg-name="Skotlandia vs Maroko" tvg-logo="https:/esdefault.jpg" group-title="PIALA DUNIA",Skotlandia vs Maroko (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
