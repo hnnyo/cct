@@ -3295,6 +3295,65 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_wo9yrwnk
 
+#EXTINF:-1 tvg-id="0_wgjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Prancis vs Irak (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_m4fowl5j
+
+#EXTINF:-1 tvg-id="03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Norwegia vs Senegal (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_ovm5icnm
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Yordania vs Aljazair (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_rt98v5au
+
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Portugal vs Uzbekistan (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_h0hkh27g
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Inggris vs Ghana (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_yol3uaqb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
