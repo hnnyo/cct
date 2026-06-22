@@ -72,7 +72,8 @@ https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/d
 
 
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="1. INDONESIA", Trans 7 CBM
-http://baka.semar.my.id:8000/play/a05f/index.m3u8
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/trs7.m3u8
+#http://baka.semar.my.id:8000/play/a05f/index.m3u8
 #http://103.148.44.38:8000/play/a05f/index.m3u8
 
 ---
