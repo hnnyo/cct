@@ -3382,7 +3382,8 @@ https://tencent-css.byteplaycdn.com/57fa68fc877908a2453d61c845e6985e/6A30BFFE/Co
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://i.ibb.co.com/7tFY7tC/rtbaneka.png", RTB ANEKA 🇧🇳
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg",ITV 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3393,7 +3394,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", RTB GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", World Cup 2026 1 🇵🇭
