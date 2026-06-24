@@ -3248,29 +3248,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Panama vs Kroasia (LIVE ONLY TVRI MAXSTREAM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/55772a5f2e7cba9a6f4e3b5c6b5af2be/6A3BB074/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Kolombia vs RD Kongo (LIVE ONLY TVRI MAXSTREAM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/1d336f4d74796f935a16e8056b11c441/6A3BCF47/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
-
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Swiss vs Kanada (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_iuzve9f9
+
 
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Bosnia vs Qatar (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3278,7 +3262,6 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_qy0xq8cd
 
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Maroko vs Haiti (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3286,7 +3269,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_ki6iy496
+
 
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Skotlandia vs Brazil (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3294,7 +3277,6 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_1gmft4pu
 
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Republik Ceko vs Meksiko (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3302,7 +3284,7 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_lqiqbt78
+
 
 #EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Afrika Selatan vs Korea Selatan (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3310,7 +3292,15 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_kee4kljq
+
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Ekuador vs Jerman (LIVE ONLY TVRI MAXSTREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+
 
 
 
