@@ -3662,10 +3662,6 @@ https://edge08-alm.beetv.kz/bpk-token/3an@plcfxhazju24at4j11dapekopq1siz3bpjmvme
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-edisi-pertama-3193264271.jpeg", ELTA Sports 1
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 UHD
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 
@@ -3673,18 +3669,11 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://bloggermg/b/R29vZ2xlSbT1kwaCPsz6%201.gif",BBC ONE (UNITED KINGDOM)
-https://xemzi.short.gy/1000001
-
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 KILATLIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="httpss/0bdffa47-dfb0-4627-85-53177389b930_f8037f07-216.png" group-title="PIALA DUNIA", iTV 1 (United Kingdom)
-https://xemzi.short.gy/1000011
 
 
 EXTINF:-1 tvg-logo="httpss/0bdffa47-dfb0-4627-85-53177389b930_f8037f07-216.png" group-title="PIALA DUNIA", TVRI Maxstream Uzbekistan vs Kolombia
@@ -3705,9 +3694,6 @@ https://tencent-css.byteplaycdn.com/6c5cb4121e8c5c9191ae7abf87c9819e/6A33E892/Co
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_xe48x3jo
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="PIALA DUNIA",IRIB HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/iribhd.m3u8
 
 
 
