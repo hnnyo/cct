@@ -3703,8 +3703,12 @@ https://tencent-css.byteplaycdn.com/6c5cb4121e8c5c9191ae7abf87c9819e/6A33E892/Co
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_xe48x3jo
 
-
-
+#EXTINF:-1 tvg-logo="httpss/0bdffa47-d6.png" group-title="PIALA DUNIA", Qazsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=912bca702ad54daf89839a1d91f0a460:89906fa33624855dd4a6d9395979c5ae
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.mpd
 
 
 
