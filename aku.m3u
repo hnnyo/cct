@@ -3279,7 +3279,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl6
 
 
 
-#EXTINF:-1 tvg-logo="https://i..nw.png" group-title="PIALA DUNIA", SVT1
+EXTINF:-1 tvg-logo="https://i..nw.png" group-title="PIALA DUNIA", SVT1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3292,14 +3292,14 @@ EXTINF:-1 tvg-logo="https://i..nw.png" group-title="PIALA DUNIA", SVT1
 #KODIPROP:inputstream.adaptive.license_key=73ac2701b01451b996ecbc187c0b02d2:ec6c1e923b6cfa6d716af5b961e9fa2d
 https://selector.e45.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", SVT2
+EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", SVT2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53ec12fa153a5af7a6071fb50f570e3e:019b961e776d6df03509c2766ca088f1
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c60547a23d7c365cf432/manifest.mpd
 
-#EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", RTV SPORT
+$EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", RTV SPORT
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3414,9 +3414,10 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1
 
 
 
-EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
 ---
