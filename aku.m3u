@@ -3256,27 +3256,36 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Curacao vs Pantai Gading (LIVE ONLY TVRI MAXSTREAM)
+EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Curacao vs Pantai Gading (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/07bb35cb52df0d6b2522a52897e2b0be/6A3E1D4F/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
 
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Ekuador vs Jerman (LIVE ONLY TVRI MAXSTREAM)
+
+EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Ekuador vs Jerman (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/51da51a3a8697e5a1eef7f027a05901e/6A3E1DB3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i..nw.png" group-title="PIALA DUNIA", SVT1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73ac2701b01451b996ecbc187c0b02d2:ec6c1e923b6cfa6d716af5b961e9fa2d
+https://selector.e45.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="ht8fjF/wc26nw.png" group-title="PIALA DUNIA", SVT2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ec12fa153a5af7a6071fb50f570e3e:019b961e776d6df03509c2766ca088f1
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c60547a23d7c365cf432/manifest.mpd
 
 
 
@@ -3362,7 +3371,7 @@ EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.i
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", M6
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", M6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
@@ -3569,13 +3578,13 @@ https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", D SPORTS 2 🇦🇷
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", D SPORTS 2 🇦🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", D SPORTS+ 🇦🇷
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", D SPORTS+ 🇦🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
@@ -3586,7 +3595,7 @@ EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https:///b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaV5IeH4KV5vKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",VIX MUNDIAL 90
+EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https:///b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaV5IeH4KV5vKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",VIX MUNDIAL 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
@@ -3605,7 +3614,7 @@ EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://rtm-images.glueapi.io/320x
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", TV AZTECA 🇲🇽
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", TV AZTECA 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e
@@ -3613,7 +3622,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 #https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", TUDN 2 🇲🇽
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", TUDN 2 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd
