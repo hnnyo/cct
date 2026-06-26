@@ -3709,11 +3709,13 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #EXTINF:-1 tvg-logo="https://objectnaja.com/img/beinsports.png" group-title="SPORTS;PIALA DUNIA" radio="false", TV 2 SPORT 2 PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20": "c37e1743b2f4b98360b0b19698edb194", "8bcb911fa8af2f5b6d7211a7a80e0d10": "fd192fb86701ab096fc58ebbc8c3f112"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcb911fa8af2f5b6d7211a7a80e0d20:c37e1743b2f4b98360b0b19698edb194
 https://cors-buster.fly.dev/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
 
 
+----
+"8bcb911fa8af2f5b6d7211a7a80e0d20": "c37e1743b2f4b98360b0b19698edb194", "8bcb911fa8af2f5b6d7211a7a80e0d10": "fd192fb86701ab096fc58ebbc8c3f112"
 
 
 
