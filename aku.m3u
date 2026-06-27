@@ -3260,13 +3260,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 https://tencent-css.byteplaycdn.com/99aaffbc7ef3f0c62bb2bd68a2773223/6A410185/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
 
 
-EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", Mesir vs Iran (LIVE ONLY TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", RD Kongo vs Uzbekistan (LIVE ONLY TVRI MAXSTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/2ea1e2a14c429666b5a60dc0a97661bc/6A3FE307/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+https://tencent-css.byteplaycdn.com/31c584d72e9410cc5945fb138e0e5d7e/6A410612/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 
 ------
