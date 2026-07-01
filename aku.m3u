@@ -3678,8 +3678,8 @@ https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.ism
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
-https://cp11.adabmedia.com/hls2/rasf1.m3u8
-#https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+#https://cp11.adabmedia.com/hls2/rasf1.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
