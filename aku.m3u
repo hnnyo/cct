@@ -3428,17 +3428,8 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1
 
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
 
-
----
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#https://cdn.stmify.com/primevideo/stream/TSN_1/cenc.mpd
----
 
 EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS;PIALA DUNIA", TSN 2 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -3456,19 +3447,13 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tsn3.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 ----
 
-EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="SPORTS;PIALA DUNIA", TSN 4 🇨🇦
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="SPORTS;PIALA DUNIA", TSN 4 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tsn4.m3u8
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn4.m3u8
 
----
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-----
-
-EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="SPORTS;PIALA DUNIA", TSN 5 🇨🇦
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="SPORTS;PIALA DUNIA", TSN 5 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tsn5.m3u8
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn5.m3u8
 
 ----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3672,10 +3657,9 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cd
 #https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.cow.png" group-title="PIALA DUNIA", FOX 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.cow.png" group-title="PIALA DUNIA", FOX 26
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/fx26.m3u8
+
 
 
 #EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unontent/u/07/digi-sport.jpg" group-title="PIALA DUNIA" , BBC ONE KILATLIVE
@@ -3696,6 +3680,10 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
 https://cp11.adabmedia.com/hls2/rasf1.m3u8
 #https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/itv1.m3u8
 
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R2902026%201.gif",ITV 1 KILATLIVE
