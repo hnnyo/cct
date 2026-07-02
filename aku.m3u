@@ -3187,13 +3187,13 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/MOVISTAR%20L
 
 
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Amerika Serikat vs Bosnia (LIVE ONLY TVRI MAXSTREAM)
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA", TVRI (LIVE ONLY RELOAD/MUAT ULANG DULU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/3cb1dc80cf25259a49f83cd6e85a79f2/6A4642B3/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+https://tencent-css.byteplaycdn.com/adca4b6f43cfc5d7a4a5b2b4e5735126/6A4748DC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 
 EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="PIALA DUNIA",Spanyol vs Austria (LIVE ONLY TVRI MAXSTREAM)
